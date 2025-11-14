@@ -228,7 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Reez Mahanan**
+**Reezma Hanan**
 - GitHub: [@reezmahanan](https://github.com/reezmahanan)
 - Project: [HRBMS Repository](https://github.com/reezmahanan/HRBMS)
 
